@@ -1,4 +1,4 @@
-# Endometriosis-and-PCOS-data-analysis
+# Study of Endometriosis-and-PCOS-using python data-analysis
 
 ![image](https://github.com/muyale/Endometriosis-and-PCOS-data-analysis/assets/111242297/66f25e14-7a59-40db-b15e-282085276e4e)
 
